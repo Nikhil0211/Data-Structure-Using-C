@@ -29,7 +29,7 @@ Day 4 (Queue and Its Types):-
   2. Write a menu driven program to implement a circular queue (use an array to store the elements of the queue).
   3. Write a menu driven program to implement a deque using array.
   
-Day 5 (Singly Linked List)
+Day 5 (Singly Linked List):-
 
   1. Write a menu driven program to implement a singly linked list with the following operations
     a. Insert an element at any position (front, end or intermediate)
@@ -42,7 +42,7 @@ Day 5 (Singly Linked List)
     h. Reverse the list, so that the last element becomes the first, and so on
     b. Concatenate two lists
 
-Day 6 (Doubly and Circular Linked List)
+Day 6 (Doubly and Circular Linked List):-
 
   1. Write a menu driven program to implement a doubly linked list with the following operations
     a. Insert an element at any position (front, end or intermediate)
@@ -53,3 +53,52 @@ Day 6 (Doubly and Circular Linked List)
     a. Insert an element at any position (front, end or intermediate)
     b. Delete an element from any position (front, end or intermediate)
     c. Display the list
+
+Day 7 (Linked List Applications):-
+
+  1. Write a program to implement a stack using linked list, such that the operations ‘push’ and ‘pop’ are performed in constant time.
+
+  2. Write a program to implement a queue using linked list, such that the operations ‘enqueue’ and
+‘dequeue’ are performed in constant time.
+
+  3. Write a menu driven program to implement a deque using linked list.
+
+Day 8 (Recursion):-
+
+  1. Write the following functions using recursion:
+     a. GCD of two integers
+     b. Binary Search
+
+  2. Write functions to implement a solution to Towers of Hanoi problem. Check your program with number of disks = 0, 1, 2 and 3.
+
+Day 9 (Sorting - I)
+  1. Write functions for each of the following sorting techniques (show the result after each iteration)
+    a. Selection
+    b. Insertion
+
+  2. Write functions for each of the following sorting techniques
+    a. Quick
+    b. Merge
+
+Day 10 (Sorting - II):-
+
+  1. Write functions for each of the following sorting techniques
+    a. Shell
+    b. Radix
+  2. Write functions to implement Heap sort (display the list once after the initial heap is built, and then after each pass during the sorting).
+
+Day 11 (Tree Operations)
+  
+  1. Write a program to construct a Binary Search Tree (BST) and perform the following
+    a. Traverse the tree in preorder, inorder, postorder and levelorder
+    b. Count the number of nodes
+    c. Count the number of leaves
+    d. Find the height of the tree
+    e. Search for an item in the tree
+    f. Remove a node from the tree
+
+Day 12 (Graph and Hashing)
+  
+  1. Write a program to implement a graph using array.
+  
+  2. Write a program to implement Mid-square Method and Folding Method of hashing. 
