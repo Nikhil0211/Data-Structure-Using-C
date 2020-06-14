@@ -29,3 +29,27 @@ Day 4 (Queue and Its Types):-
   2. Write a menu driven program to implement a circular queue (use an array to store the elements of the queue).
   3. Write a menu driven program to implement a deque using array.
   
+Day 5 (Singly Linked List)
+
+  1. Write a menu driven program to implement a singly linked list with the following operations
+    a. Insert an element at any position (front, end or intermediate)
+    b. Delete an element from any position (front, end or intermediate)
+    c. Display the list
+    d. Perform a linear search on the list.
+    e. Insert an element after a specified element
+    f. Delete a specified element
+    g. Count the number of nodes
+    h. Reverse the list, so that the last element becomes the first, and so on
+    b. Concatenate two lists
+
+Day 6 (Doubly and Circular Linked List)
+
+  1. Write a menu driven program to implement a doubly linked list with the following operations
+    a. Insert an element at any position (front, end or intermediate)
+    b. Delete an element from any position (front, end or intermediate)
+    c. Display the list
+
+  2. Write a menu driven program to implement a circular linked list with the following operations
+    a. Insert an element at any position (front, end or intermediate)
+    b. Delete an element from any position (front, end or intermediate)
+    c. Display the list
