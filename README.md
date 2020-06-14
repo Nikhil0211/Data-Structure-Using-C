@@ -1,5 +1,5 @@
 # Data-Structure
-Data Structures Programs.
+Data Structures Programs Using C.
 
 Day 1 (Sparse Matrix and Matrix Manipulations):-
 
