@@ -1,5 +1,5 @@
 # Data-Structure
-Data Structures Programs.
+Data Structures Programs Using C.
 
 Day 1 (Sparse Matrix and Matrix Manipulations):-
 
@@ -53,6 +53,7 @@ Day 6 (Doubly and Circular Linked List):-
     a. Insert an element at any position (front, end or intermediate)
     b. Delete an element from any position (front, end or intermediate)
     c. Display the list
+<<<<<<< HEAD
 
 Day 7 (Linked List Applications):-
 
@@ -102,3 +103,5 @@ Day 12 (Graph and Hashing)
   1. Write a program to implement a graph using array.
   
   2. Write a program to implement Mid-square Method and Folding Method of hashing. 
+=======
+>>>>>>> e6ba3a70a852982f93198b9cb32d61881a238f1c
