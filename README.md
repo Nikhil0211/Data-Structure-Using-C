@@ -103,5 +103,3 @@ Day 12 (Graph and Hashing)
   1. Write a program to implement a graph using array.
   
   2. Write a program to implement Mid-square Method and Folding Method of hashing. 
-=======
->>>>>>> e6ba3a70a852982f93198b9cb32d61881a238f1c
