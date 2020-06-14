@@ -18,12 +18,12 @@ Day 2(Searching and Polynomial Representation):-
       a. Represent a polynomial (of single variable x)    
       b. Add two polynomials
   
-Day 3 (Stack and Its Applications)
+Day 3 (Stack and Its Applications):-
   
   1. Write a menu driven program to implement a stack (use an array to store the elements of the stack).
   2. Write functions to convert an infix expression to its corresponding postfix expression.
   
-Day 4 (Queue and Its Types)
+Day 4 (Queue and Its Types):-
   
   1. Write a menu driven program to implement a simple/linear queue (use an array to store the elements of the queue).
   2. Write a menu driven program to implement a circular queue (use an array to store the elements of the queue).
